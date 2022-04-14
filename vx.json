@@ -1,0 +1,30 @@
+{
+    "created_time": "2022-04-14T09:36:45Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-04-14T09:36:45Z",
+            "id": "5",
+            "modified_time": "2022-04-14T09:48:01Z",
+            "name": "README.md",
+            "signature": "82331878026029",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": ".vs"
+        },
+        {
+            "name": "数据结构与算法"
+        },
+        {
+            "name": "算法题解"
+        }
+    ],
+    "id": "1",
+    "modified_time": "2022-04-14T09:36:45Z",
+    "signature": "177743588141",
+    "version": 3
+}
